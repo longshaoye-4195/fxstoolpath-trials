@@ -5,8 +5,8 @@
   "reqDays": 1,
   "email": "",
   "iat": "2026-10-24T02:25:26.4533558Z",
-  "apprExp": null,
-  "apprBy": null,
+  "apprExp": "2027-01-22T02:26:48.6897564Z",
+  "apprBy": "注册机 10-24 10:26",
   "rej": false,
   "note": null
 }
