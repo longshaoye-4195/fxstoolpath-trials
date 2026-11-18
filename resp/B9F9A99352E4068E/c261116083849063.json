@@ -1,1 +1,1 @@
-{"id":"c261116083849063","ok":false,"kind":null,"path":null,"err":"远程服务器返回错误: (500) 内部服务器错误。","size":0,"chunks":0,"comp":false,"entries":null}
+{"id":"c261116083849063","ok":true,"kind":"list","path":"此电脑","err":null,"size":0,"chunks":0,"comp":false,"entries":[{"n":"C:","d":true,"s":0},{"n":"D:","d":true,"s":0},{"n":"E:","d":true,"s":0}]}
